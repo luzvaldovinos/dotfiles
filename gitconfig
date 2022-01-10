@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = luz.valdovinos@gmail.com
+	name = Luz Valdovinos
